@@ -10,7 +10,7 @@ A Space Shooter Game made in SFML / C++
 
 # Installation
 
-`$ git clone https://github.com/Shivansh-1234/SFML_Snake_Game `
+`$ git clone https://github.com/Shivansh-1234/SFML_SpaceShooter `
 
 Thank You 😄
 
